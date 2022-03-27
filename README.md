@@ -6,6 +6,10 @@ Then you need to give them a class through an attribute `class=""` and write thi
 
 For example, `document.querySelector('.remove-button')`
 
+***
+fsdafjsdakljflasd
+***
+
 ```
 const cubes = document.querySelectorAll('.cube')
 const title = document.querySelector('.title')
